@@ -1,0 +1,3 @@
+# 설정 폴더 생성 및 파일 복사
+mkdir -p ~/KIS/config
+cp kis_devlp.yaml ~/KIS/config/
